@@ -1,0 +1,13 @@
+body{
+    font-family: 'inter', sans-serif;
+    font-size: 1.125rem;
+    height: 100vh;
+    display: -moz-grid;
+    color: aliceblue;
+    background-color: black;
+
+}
+ container{
+    display: -webkit-flex;
+    
+ }
